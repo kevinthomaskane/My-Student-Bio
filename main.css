@@ -1,0 +1,30 @@
+.header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+#image{
+    width: 150px;
+    height: 150px;
+    float: left;
+    padding-right: 10px;
+
+}
+
+.contactInfo{
+    float: right;
+
+}
+
+.yourName{
+    padding-right: 100px;
+    display: inline-block;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
